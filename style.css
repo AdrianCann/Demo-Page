@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+<script>
+  for (let i = 0; i < 5; i++) {
+    alert("HI!")
+    
+  }
+</script>
